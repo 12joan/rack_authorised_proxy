@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "lib/rack_authorised_proxy/version"
+require_relative "lib/rack_authorised_proxy"
 
 Gem::Specification.new do |spec|
   spec.name          = "rack_authorised_proxy"
