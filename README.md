@@ -7,7 +7,7 @@ Only permit requests that originate from an authorised reverse proxy
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'rack_authorised_proxy', github: '12joan/rack_authorised_proxy'
+gem 'rack_authorised_proxy'
 ```
 
 And then execute:
